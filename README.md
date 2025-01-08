@@ -1,3 +1,3 @@
 # yortfolio
 My portfolio
-https://yortzzz.github.io/yortfolio/
+https://yortez.github.io/yortfolio/
